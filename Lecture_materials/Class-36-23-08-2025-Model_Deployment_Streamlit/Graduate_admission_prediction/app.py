@@ -12,12 +12,12 @@ CONFIG_PATH = os.path.join(BASE_DIR, "config.json")
 
 with open(CONFIG_PATH, "r") as f:
     config = json.load(f)
-    
+
 features = [x.strip() for x in config['features'].split(',')]
 
 # Load the model
 
-model_file_path = "./models/" + config['model_file_path'].split('/')[-1]
+model_file_path = os.path.join(BASE_DIR, "models", config['model_file_name'])
 model = joblib.load(model_file_path)
 
 # Putting header and subheader
