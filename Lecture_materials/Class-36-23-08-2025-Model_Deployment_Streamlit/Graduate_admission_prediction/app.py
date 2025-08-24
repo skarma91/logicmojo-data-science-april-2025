@@ -3,6 +3,7 @@ import joblib
 import numpy as np
 import pandas as pd
 import json
+import os
 
 # Load the config file
 
@@ -11,7 +12,7 @@ features = [x.strip() for x in config['features'].split(',')]
 
 # Load the model
 
-model_file_path = config['model_file_path']
+model_file_path = "./models/" + config['model_file_path'].split('/')[-1]
 model = joblib.load(model_file_path)
 
 # Putting header and subheader
