@@ -1,0 +1,6 @@
+{
+    "data_source": "../data/Admission_Predict.csv",
+    "model_file_path": "../models/linear_regression_with_preprocess.joblib",
+    "model_type": "LinearRegression",
+    "features": "GRE_Score, TOEFL_Score, University_Rating, SOP, LOR, CGPA, Research"
+}
