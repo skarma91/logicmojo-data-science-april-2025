@@ -1,0 +1,59 @@
+{
+    "threshold": 0.3173,
+    "feature_list": [
+        "credit_score",
+        "age",
+        "balance",
+        "estimated_salary",
+        "tenure",
+        "products_number",
+        "country",
+        "gender",
+        "credit_card",
+        "active_member"
+    ],
+    "model_filename": "churn_prediction_model_rf.joblib",
+    "feature_range": {
+        "credit_score": {
+            "min": 350,
+            "max": 850
+        },
+        "age": {
+            "min": 18,
+            "max": 92
+        },
+        "balance": {
+            "min": 0,
+            "max": 250898
+        },
+        "estimated_salary": {
+            "min": 12,
+            "max": 199992
+        },
+        "tenure": {
+            "min": 0,
+            "max": 10
+        },
+        "products_number": {
+            "min": 1,
+            "max": 4
+        },
+        "country": [
+            "France",
+            "Germany",
+            "Spain"
+        ],
+        "gender": [
+            "Female",
+            "Male"
+        ],
+        "credit_card": [
+            0,
+            1
+        ],
+        "active_member": [
+            0,
+            1
+        ]
+    }
+}

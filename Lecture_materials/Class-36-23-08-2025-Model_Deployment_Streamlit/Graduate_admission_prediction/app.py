@@ -12,6 +12,7 @@ CONFIG_PATH = os.path.join(BASE_DIR, "config.json")
 
 with open(CONFIG_PATH, "r") as f:
     config = json.load(f)
+f.close()
 
 features = [x.strip() for x in config['features'].split(',')]
 
