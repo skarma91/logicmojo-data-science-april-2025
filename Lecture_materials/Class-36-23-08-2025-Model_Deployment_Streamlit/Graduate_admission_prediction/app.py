@@ -5,9 +5,14 @@ import pandas as pd
 import json
 import os
 
-# Load the config file
+# Load the config file (build the path relative )
 
-config = json.load(open('./config.json', 'r'))
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+CONFIG_PATH = os.path.join(BASE_DIR, "config.json")
+
+with open(CONFIG_PATH, "r") as f:
+    config = json.load(f)
+    
 features = [x.strip() for x in config['features'].split(',')]
 
 # Load the model
