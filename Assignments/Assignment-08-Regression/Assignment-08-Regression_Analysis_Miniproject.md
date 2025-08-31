@@ -65,5 +65,5 @@
 ## Steps to upload the assignment solution
 
 - Create the notebook `Assignment-08-Regression-<your_name>_<your_surname>.ipynb` in your local machine and solve the assignment.
-- Upload the solved notebook in the google drive location: https://drive.google.com/drive/folders/15h_ksmpob2SjmFigY1CGSzKB63tbw4oP?usp=drive_link 
-- Also upload the solved notebook to your respective github repository.
+- Upload the solved notebook and document in the google drive location: https://drive.google.com/drive/folders/15h_ksmpob2SjmFigY1CGSzKB63tbw4oP?usp=drive_link 
+- Also upload the solved notebook and document to your respective github repository.
