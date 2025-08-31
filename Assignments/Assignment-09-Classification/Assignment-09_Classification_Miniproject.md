@@ -68,5 +68,5 @@
 ## Steps to upload the assignment solution
 
 - Create the notebook `Assignment-09-Classification-<your_name>_<your_surname>.ipynb` in your local machine and solve the assignment.
-- Upload the solved notebook in the google drive location: https://drive.google.com/drive/folders/1kxaikcl0lnE6ZeikFJJ5Fo-nUOPmWFHl?usp=drive_link
-- Also upload the solved notebook to your respective github repository.
+- Upload the solved notebook and document in the google drive location: https://drive.google.com/drive/folders/1kxaikcl0lnE6ZeikFJJ5Fo-nUOPmWFHl?usp=drive_link
+- Also upload the solved notebook and document to your respective github repository.
