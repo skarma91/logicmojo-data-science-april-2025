@@ -1,4 +1,4 @@
-# Time Series Forecasting Project
+# Time Series Analysis and Forecasting Project
 
 ## Project Overview
 - **Dataset**: [Electric Production Datasets](https://www.kaggle.com/datasets/shenba/time-series-datasets/data). 
