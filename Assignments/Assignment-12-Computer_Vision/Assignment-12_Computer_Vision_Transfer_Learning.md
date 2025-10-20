@@ -1,4 +1,4 @@
-# Mini-Project:: Transfer Learning for Image Classification
+# Mini-Project: Transfer Learning for Image Classification
 
 ## Project Overview
 
@@ -39,7 +39,7 @@ You will use the **training set** to train your models and the **test set** to e
 ### Objective
 
 The main objective of this assignment is to:
-1. Implement **transfer learning** using pre-trained CNN models (e.g., VGG16, ResNet50, InceptionV3, DenseNet121). Check the (documentation)[https://docs.pytorch.org/vision/main/models.html] on how to use pre-trained CNN models in pytorch.
+1. Implement **transfer learning** using pre-trained CNN models (e.g., VGG16, ResNet50, InceptionV3, DenseNet121). Check the [documentation](https://docs.pytorch.org/vision/main/models.html) on how to use pre-trained CNN models in pytorch.
 2. Compare the performance of these models on the given dataset.
 3. Analyze which model performs best and why.
 4. Document your findings with clear visualizations, metrics, and discussion.
@@ -103,7 +103,8 @@ A concise report summarizing:
   - Cropping
   - Color jitter
   etc.
-  You may use the techniques described in [this kaggle notebook](https://www.kaggle.com/code/mohamedmustafa/7-data-augmentation-on-images-using-pytorch)
+
+You may use the techniques described in [this kaggle notebook](https://www.kaggle.com/code/mohamedmustafa/7-data-augmentation-on-images-using-pytorch)
 - Create **DataLoaders** (PyTorch).
 
 
