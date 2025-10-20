@@ -86,7 +86,7 @@ A concise report summarizing:
 
 ## Suggested Milestones
 
-### Problem Setup
+### Milestone 1: Problem Setup
 - Load and explore the dataset.
 - Visualize a few images from each class.
 - Split the dataset into **train**, **validation**, and **test** sets (if not already split).
@@ -94,7 +94,7 @@ A concise report summarizing:
 - Set up the environment.
 
 
-###  Preprocessing and Data Augmentation
+###  Milestone 2: Preprocessing and Data Augmentation
 - Apply **image resizing** to make all images uniform in size.
 - Normalize pixel values.
 - Apply **data augmentation techniques** such as:
