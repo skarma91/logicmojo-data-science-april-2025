@@ -8,7 +8,7 @@ In this assignment, you will explore **transfer learning** techniques for **imag
 
 **Dataset Link:** [pizza_steak_sushi.zip](https://github.com/skarma91/logicmojo-data-science-april-2025/blob/main/Assignments/Assignment-12-Computer_Vision/pizza_steak_sushi.zip)
 
-Download the dataset in your local machine.
+Download the dataset in your local machine and unzip it.
 
 **Description:**  
 The dataset contains images of three distinct food items:
