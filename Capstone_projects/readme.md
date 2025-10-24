@@ -1,4 +1,4 @@
-# Capston Projects
+# Capstone Projects
 
 ## Batch: LogicMojo Data Science April 2025
 
