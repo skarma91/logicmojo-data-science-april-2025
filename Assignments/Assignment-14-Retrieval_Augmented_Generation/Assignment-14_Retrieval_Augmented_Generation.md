@@ -1,4 +1,4 @@
-# Assignment: Retrieval-Augmented Generation (RAG)
+# Assignment 14: Retrieval-Augmented Generation (RAG)
 
 ## Project Overview
 
@@ -11,7 +11,6 @@ Students will parse this document, extract structured content (sections, sub-sec
 
 I have provided the pdf report for ready reference. 
 
----
 
 ### Objective
 - Parse the PDF using **Docling** (or an equivalent library) to convert the document into a LLM friendly format (like markdown).
@@ -21,7 +20,6 @@ I have provided the pdf report for ready reference.
 - Create a **RAG pipeline** that retrieves the most relevant chunks for a query and passes them to a language model to generate an answer.
 - Evaluate the system by testing a set of user queries and analyzing the relevance of retrieved content and generated answers.
 
----
 
 ### Skills Practiced
 - PDF parsing and document preprocessing  
