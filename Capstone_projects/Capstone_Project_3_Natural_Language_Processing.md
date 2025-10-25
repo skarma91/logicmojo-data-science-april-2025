@@ -1,9 +1,4 @@
-# **Capstone Project-3: Text Summarization using Sequence-to-Sequence Transformer Models**
-
----
-
-## **Project Title:**  
-**Abstractive Text Summarization on News Articles using Transformer-based Models**
+# **Capstone Project-3: Text Summarization on News Articles using Sequence-to-Sequence Transformer Models**
 
 ---
 
@@ -87,8 +82,6 @@ Use transformer-based architectures for abstractive summarization:
 
 Both models leverage transfer learning from pre-training on massive text corpora.
 Use both the appraoches and compare their performance for the given task.
-
----
 
 ### **4. Model Training**
 
