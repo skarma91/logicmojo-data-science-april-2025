@@ -82,6 +82,9 @@ Use transformer-based architectures for abstractive summarization:
 - Model: `t5-base` or `t5-large`
 - Task framing: Prefix each input with `"summarize: "` before passing to the model.
 
+#### **Approach 3: Flan-T5**
+- Model: `flan-t5-base` or `flan-t5-large`
+
 Both models leverage transfer learning from pre-training on massive text corpora.
 Use both the appraoches and compare their performance for the given task.
 
