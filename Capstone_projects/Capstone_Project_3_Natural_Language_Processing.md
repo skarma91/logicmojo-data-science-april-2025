@@ -40,7 +40,7 @@ Text corpus suitable for supervised learning tasks (seq2seq).
 
 1. Perform **text cleaning and preprocessing** suitable for NLP modeling.  
 2. Implement a **sequence-to-sequence (seq2seq)** architecture for summarization using pre-trained transformer models.  
-3. Fine-tune pre-trained **BART** or **T5** models on the CNN/DailyMail dataset.  
+3. Fine-tune pre-trained **BART** or **T5** or **Flan-T5** models on the CNN/DailyMail dataset.  
 4. Evaluate model performance using standard summarization metrics (ROUGE, BLEU).  
 5. Compare model performance before and after fine-tuning.  
 6. Demonstrate model inference by generating summaries for new/unseen articles.  
