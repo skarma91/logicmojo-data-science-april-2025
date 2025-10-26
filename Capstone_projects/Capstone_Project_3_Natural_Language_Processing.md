@@ -1,5 +1,4 @@
 # **Capstone Project-3: Text Summarization on News Articles using Sequence-to-Sequence Transformer Models**
-
 ---
 
 ## **Problem Statement**
