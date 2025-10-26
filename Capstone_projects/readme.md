@@ -11,4 +11,4 @@
 | Capstone Project 1    | Capstone_Project_1_Classical_Machine_Learning.md  | Classical Machine Learning : Classification |
 | Capstone Project 2    | Capstone_Project_2_Computer_Vision.md             | Deep Learning : Computer Vision             |
 | Capstone Project 3    | Capstone_Project_3_Natural_Language_Processing.md | Transformers : NLP                          |
-| Capstone Project 4    | Capstone_Project_4_Generative_AI.md               | Large Language Models and RAGs              |
+| Capstone Project 4    | Capstone_Project_4_Retrieval_Augmented_Generation | LLM and Retrieval Augmented Generation      |
