@@ -3,8 +3,8 @@
 ## Batch: LogicMojo Data Science April 2025
 
 - We have created following 4 capstone projects. 
-- Students are requested to complete at least 2 out of 4 capstone projects for your course completion. 
-- You are welcome to try more than 2 projects as well
+- Students are requested to complete **at least 2 out of 4 capstone projects** for your course completion. 
+- You are welcome to try more than 2 projects as well.
 
 | **Capstone Projects** |                     **Files**                        |            **Brief Descriptions**           |
 |:---------------------:|:----------------------------------------------------:|:-------------------------------------------:|

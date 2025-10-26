@@ -163,6 +163,6 @@ Monitor validation loss and ROUGE metrics to select the best configuration.
 
 ## **Upload the project deliverables**
 
-- Upload the solved notebook(s), Project Report, Presentation Slides, and Sample File in the google drive location: https://drive.google.com/drive/folders/1vLH8TKTMVb_mP7IM89-XKkdX0ZTkcQyL?usp=drive_link
+- Upload the solved notebook(s), Codes, Project Report, Presentation Slides, and Sample File in the google drive location: https://drive.google.com/drive/folders/1vLH8TKTMVb_mP7IM89-XKkdX0ZTkcQyL?usp=drive_link
 
 - Also upload the solved notebook and the documents to your respective github repository.

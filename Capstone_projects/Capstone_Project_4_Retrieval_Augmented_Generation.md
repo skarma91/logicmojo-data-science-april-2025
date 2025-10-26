@@ -109,6 +109,6 @@ The dataset consists of publicly available corporate environmental and sustainab
 
 ## **Upload the project deliverables**
 
-- Upload the solved notebook(s), Presentation Slides in the google drive location: https://drive.google.com/drive/folders/1aAO1MdxCgk2C--FZuqnquGlsEGx9HPUs?usp=drive_link
+- Upload the solved notebook(s), Codes, Presentation Slides in the google drive location: https://drive.google.com/drive/folders/1aAO1MdxCgk2C--FZuqnquGlsEGx9HPUs?usp=drive_link
 
 - Also upload the solved notebook and the documents to your respective github repository.
